@@ -8,3 +8,9 @@ body{
   justify-content: center;
   color: #00FFFF;
 }
+button{
+    background-color: yellow;
+    border-radius: 20px;
+    color: #4B0082;
+    box-shadow:inset 0 0 20px red, 0 0 30px red;
+  }
